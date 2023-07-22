@@ -67,5 +67,17 @@ http://localhost:8080/api/customers/1000/rewards?rollUp=by_day&window=2
 http://localhost:8080/api/customers/1000/rewards?roll_up=by_day&window=3
 http://localhost:8080/api/customers/1000/rewards?roll_up=by_month&window=3
 ```
+- Swagger API Docs
 
+```
+http://localhost:8080/swagger-ui/index.html
+```
+
+- http://localhost:8080/actuator/prometheus
+
+```
+http://localhost:8080/actuator
+http://localhost:8080/actuator/health
+http://localhost:8080/swagger-ui/index.html
+```
 
