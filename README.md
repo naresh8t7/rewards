@@ -1,5 +1,5 @@
 <h1>
-  <br>Charter Take home test
+  <br>Rewards Calculator Service
 </h1>
   
 
